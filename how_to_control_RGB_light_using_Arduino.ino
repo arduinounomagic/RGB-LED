@@ -2,11 +2,11 @@
 *How to operate the RGB LED using Arduino uno
 *(how red, green, blue, white colors can be generated)
 *
-*for more detail about this project please visit:
+*for more detail about this project please visit:https://www.arduinounomagic.com/2019/05/how-to-control-rgb-led-using-arduino-uno.html
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 *
-*for more projects based on Arduino uno please visit:
+*for more projects based on Arduino uno please visit:https://www.arduinounomagic.com/
 */
 //with analog PWM pins and common anode type RGB led
 //connect all 3 rgb with 1k ohm resisor
