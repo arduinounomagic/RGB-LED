@@ -8,10 +8,6 @@
 *
 *for more projects based on Arduino uno please visit:https://www.arduinounomagic.com/
 */
-//with analog PWM pins and common anode type RGB led
-//connect all 3 rgb with 1k ohm resisor
-//connect common anode terminal with 5 volt pin
-//
 //configure the PWM pins
 int redInput=11;
 int greenInput=9;
