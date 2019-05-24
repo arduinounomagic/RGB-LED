@@ -1,7 +1,3 @@
-//with analog pins and common anode type RGB led
-//connect all 3 rgb with 1k ohm resisor
-//connect common anode terminal with 5 volt pin
-//
 /*1st code
 *How to operate the RGB LED using Arduino uno
 *(how red, green, blue, white colors can be generated)
@@ -12,7 +8,10 @@
 *
 *for more projects based on Arduino uno please visit:
 */
-
+//with analog PWM pins and common anode type RGB led
+//connect all 3 rgb with 1k ohm resisor
+//connect common anode terminal with 5 volt pin
+//
 //configure the PWM pins
 int redInput=11;
 int greenInput=9;
